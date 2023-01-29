@@ -1,0 +1,14 @@
+.App {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+body {
+    background-image: url('./assets/images/weather-fondo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
